@@ -1,0 +1,10 @@
+These are linux cmmands for the shell
+
+creating aliases
+alias ll='ls -al'
+
+show all aliases
+alias
+
+to unalias
+unalias ll
